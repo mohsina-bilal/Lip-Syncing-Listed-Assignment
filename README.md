@@ -22,9 +22,9 @@ The lip syncing project extends the capabilities of Wav2Lip by incorporating add
 
 ## Demo
 
-Check out the video below to see the lip syncing project in action:
+Check out the video below to see the lip-syncing project in action:
 
-[![Lip Syncing Project Demo](#will add a google drive link here with the video once done with it)
+[![Lip Syncing Project Demo]((https://drive.google.com/drive/folders/109FzI7xzm3m1sctGZEBGlatmgCVG0_Yq?usp=sharing))
 
 Click on the link above to watch the video demonstration.
 
