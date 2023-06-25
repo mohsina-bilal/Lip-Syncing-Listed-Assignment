@@ -58,3 +58,4 @@ This project is licensed under the [MIT License](LICENSE), which allows for both
 
 I would like to express our gratitude to Rudrabha Mukhopadhyay for creating and sharing the Wav2Lip repository, which serves as the foundation for our lip syncing project. Their open-source contribution has been instrumental in the development of this project.
 
+**Note:** For an updated version of the Google Colab file, please refer to the [Wav2Lip Google Colab file]([https://colab.research.google.com/your_updated_colab_file_link_here](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH)https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH) provided in the Wav2Lip repository.
